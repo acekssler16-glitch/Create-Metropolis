@@ -1,0 +1,13 @@
+name = "Diamond In The Rough (as in obsidian)"
+filename = "ditr-1.21.1-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68f01cbd0ff0ba7a1d5de8262644bab3c0803b6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5624841
+project-id = 898993

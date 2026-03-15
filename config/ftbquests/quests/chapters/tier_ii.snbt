@@ -1,0 +1,68 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_ii"
+	group: ""
+	id: "045C3E56A422CC2B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "0113F19B7B3E9F33"
+		rewards: [
+			{
+				id: "5C18F46535A9811F"
+				item: {
+					count: 1
+					id: "create:track"
+				}
+				type: "item"
+			}
+			{
+				id: "3D476FADE110D3FB"
+				item: {
+					count: 1
+					id: "tfmg:coke_oven"
+				}
+				type: "item"
+			}
+			{
+				id: "5B1180FB12BC712C"
+				item: {
+					count: 1
+					id: "tfmg:blast_furnace_output"
+				}
+				type: "item"
+			}
+			{
+				id: "5495E66A7E2B46AC"
+				item: {
+					count: 1
+					id: "bits_n_bobs:small_flanged_cogwheel"
+				}
+				type: "item"
+			}
+			{
+				id: "2E5615F968657775"
+				item: {
+					count: 1
+					id: "create:blaze_burner"
+				}
+				type: "item"
+			}
+			{
+				id: "4E91B5F66B720CDD"
+				item: {
+					count: 1
+					id: "create_power_loader:andesite_chunk_loader"
+				}
+				type: "item"
+			}
+		]
+		tasks: [{
+			id: "795BF88BB106716F"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: -2.0d
+	}]
+}

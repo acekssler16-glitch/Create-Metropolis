@@ -1,0 +1,47 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_iv"
+	group: ""
+	id: "6425F41966377955"
+	order_index: 3
+	quest_links: [ ]
+	quests: [{
+		id: "3E466D7EF8292499"
+		rewards: [
+			{
+				id: "2621D842563A8720"
+				item: {
+					count: 1
+					id: "create_mobile_packages:robo_bee"
+				}
+				type: "item"
+			}
+			{
+				id: "04CB1F12B23E54D1"
+				item: {
+					count: 1
+					id: "tfmg:crude_oil_bucket"
+				}
+				type: "item"
+			}
+			{
+				id: "1E9BBE0E122ED9BF"
+				item: {
+					components: {
+						"create:banktank_air": 900
+					}
+					count: 1
+					id: "create_jetpack:jetpack"
+				}
+				type: "item"
+			}
+		]
+		tasks: [{
+			id: "0DF8C460ED158A40"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: -2.0d
+	}]
+}

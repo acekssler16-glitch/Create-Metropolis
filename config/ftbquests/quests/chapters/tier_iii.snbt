@@ -1,0 +1,82 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_iii"
+	group: ""
+	id: "39E821929506409B"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "304A92B1DBA4C6E8"
+		rewards: [
+			{
+				id: "1B00FFD22BB3EA21"
+				item: {
+					count: 1
+					id: "create:package_frogport"
+				}
+				type: "item"
+			}
+			{
+				id: "0DF9CB6A0D173B35"
+				item: {
+					count: 1
+					id: "create:stock_link"
+				}
+				type: "item"
+			}
+			{
+				id: "53E94FCFD04E85C6"
+				item: {
+					count: 1
+					id: "create:stock_ticker"
+				}
+				type: "item"
+			}
+			{
+				id: "4637B05016BAC000"
+				item: {
+					count: 1
+					id: "create:packager"
+				}
+				type: "item"
+			}
+			{
+				id: "3FC03AA608B869B0"
+				item: {
+					components: {
+						"ftbquests:missing_item": "create_enchantment_industry:blaze_enchanter"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}
+			{
+				id: "5174804C1C329474"
+				item: {
+					components: {
+						"ftbquests:missing_item": "create_enchantment_industry:blaze_forger"
+					}
+					count: 1
+					id: "ftbquests:missing_item"
+				}
+				type: "item"
+			}
+			{
+				id: "0A90D0CE42398C22"
+				item: {
+					count: 1
+					id: "create:blaze_cake"
+				}
+				type: "item"
+			}
+		]
+		tasks: [{
+			id: "55A7D0582A24CE6A"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: -2.0d
+	}]
+}

@@ -1,0 +1,13 @@
+name = "AStages"
+filename = "astages-2.0.0-alpha.6-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73705472ec5b940b9c983d2e3e765995374d873a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7634095
+project-id = 1120180

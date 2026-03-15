@@ -1,0 +1,13 @@
+name = "Create: Packagers PSI Compat"
+filename = "packagerspsic-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3125b743b8257023c72dc89799a2ce95f03405a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6500715
+project-id = 1259651

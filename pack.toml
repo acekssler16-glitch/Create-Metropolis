@@ -1,0 +1,13 @@
+name = "Create Metropolis"
+author = "AceKssler16"
+version = "1.2.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e8869a7db6fd287c663dc05b02a01d06d31c1afe976b82500edc60af40db36cc"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"

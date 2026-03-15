@@ -1,0 +1,13 @@
+name = "(Create) Smart Chutes Curvified"
+filename = "Smart Chute but Curvy.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38b88e7c730e42e5552541f4fed2034eca8d8f6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4560714
+project-id = 868281
