@@ -49,7 +49,7 @@ ServerEvents.recipes(event => {
                     C: 'minecraft:glass',
                     A: 'minecraft:emerald',
                     B: 'minecraft:blue_dye',
-                    E: 'minecraft:potion',
+                    E: 'minecraft:potion[potion_contents={potion:"minecraft:invisibility"}]',
                     D: 'artifacts:lucky_scarf'
             }
     )
@@ -104,7 +104,7 @@ ServerEvents.recipes(event => {
             ],
             {
                     A: 'minecraft:obsidian',
-                    B: 'minecraft:potion'
+                    B: 'minecraft:potion[potion_contents={potion:"minecraft:fire_resistance"}]'
             }
     )
     event.shaped(
@@ -134,19 +134,6 @@ ServerEvents.recipes(event => {
             }
     )
     event.shaped(
-            Item.of('artifacts:everlasting_beef'),
-            [
-                    ' A ',
-                    'BCB',
-                    ' B '
-            ],
-            {
-                    A: 'minecraft:totem_of_undying',
-                    B: 'create:golden_sheet',
-                    C: 'minecraft:beef'
-            }
-    )
-    event.shaped(
             Item.of('artifacts:crystal_heart'),
             [
                     'A A',
@@ -156,7 +143,7 @@ ServerEvents.recipes(event => {
             {
                     A: 'minecraft:emerald',
                     C: 'create_dragons_plus:red_dye_bucket',
-                    B: 'minecraft:potion'
+                    B: 'minecraft:potion[potion_contents={potion:"minecraft:regeneration"}]'
             }
     )
     event.shaped(
@@ -210,7 +197,7 @@ ServerEvents.recipes(event => {
             {
                     B: 'minersdelight:bat_wing',
                     C: 'artifacts:power_glove',
-                    A: 'alexsmobs:blood_sac'
+                    A: 'brewinandchewin:bloody_mary'
             }
     )
 });

@@ -96,10 +96,10 @@
     "drying_rack": true,
     "contamination": true
   },
-  "gravestone": {
-    "grave": true
-  },
   "astages": {
     "block_component_provider": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }
