@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:string"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:compass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:paper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:map"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
