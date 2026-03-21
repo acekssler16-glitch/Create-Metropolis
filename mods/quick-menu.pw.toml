@@ -1,0 +1,13 @@
+name = "Quick Menu"
+filename = "quick-menu-1.2.4-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e020a6ea109f5baaa5a37d0e7c1b9ab900f6ef84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7767231
+project-id = 1487880
