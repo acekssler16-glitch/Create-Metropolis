@@ -1,0 +1,13 @@
+name = "Surveyor Map Framework"
+filename = "surveyor-1.2.1+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e01b1de1b0346a433a819b8cfe9a77b6a9fc2ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7516207
+project-id = 1391592
